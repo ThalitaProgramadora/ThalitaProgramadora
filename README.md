@@ -8,21 +8,7 @@
  <a href="#Tecnologias">Tecnologias</a> •
  <a href="#Contatos">Contatos</a> •
 </p>
-<h2>### 🎲 Objetivo</h2>
-sobre mim(meus objetivos).
 
-### 🚀 Projetos  🚧
-- Projeto de vendas
-- Projeto Faculdade
-- Projeto Edunity
-### 🛠 Tecnologias
-Soft skills meus:
-
-- [Java](https://www.java.com/pt-BR/)
-- [SpringBoot](https://spring.io/projects/spring-boot)
-- [Postman](https://www.postman.com/)
-- [Banco de dados](https://www.oracle.com/br/mysql/)
-- [Mysql](https://www.oracle.com/br/mysql/)
 
 
 ### Contatos

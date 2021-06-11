@@ -12,9 +12,9 @@
 sobre mim(meus objetivos).
 
 ### 🚀 Projetos  🚧
-<h3>Projeto de vendas</h3>
-<h3>Projeto Faculdade</h3>
-<h3>Projeto Edunity</h3>
+Projeto de vendas
+Projeto Faculdade
+Projeto Edunity
 ### 🛠 Tecnologias
 Soft skills meus:
 

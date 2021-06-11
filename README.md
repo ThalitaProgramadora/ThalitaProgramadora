@@ -11,17 +11,5 @@
 
 
 
-### Contatos
----
 
-<a href="https://github.com/ThalitaProgramadora">
- <img style="border-radius: 50%;" src="https://i.imgur.com/wVGcp53.jpg" width="100px;" alt=""/>
- <br />
- <sub><b>Thalita Oliveira Silva</b></sub></a> <a href="https://github.com/ThalitaProgramadora" title="github">🚀</a>
-
-
-Feito com ❤️ por Thalita Oliveira Silva 👋🏽 Entre em contato!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Thalita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalitaoliveirasilva2649/)](https://www.linkedin.com/in/thalitaoliveirasilva2649/) 
-[![Gmail Badge](https://img.shields.io/badge/-thalita.programadora@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thalita.programadora@gmail.com)](mailto:thalita.programadora@gmail.com)
 

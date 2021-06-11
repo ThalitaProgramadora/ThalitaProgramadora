@@ -1,16 +1,41 @@
-### Hi there 👋
+### Olá, tudo bem?? 👋
 
-<!--
-**ThalitaProgramadora/ThalitaProgramadora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Seja Bem Vindo!!</h1>
+<h2 align="center">Me chamo Thalita e sou programadora.</h2>
+<p align="center">
+ <a href="#Objetivo">Objetivo</a> •
+ <a href="#Projetos">Projetos</a> •
+ <a href="#Tecnologias">Tecnologias</a> •
+ <a href="#Contatos">Contatos</a> •
+</p>
+<h2>### 🎲 Objetivo</h2>
+sobre mim(meus objetivos).
 
-Here are some ideas to get you started:
+### 🚀 Projetos  🚧
+<h3>Projeto de vendas</h3>
+<h3>Projeto Faculdade</h3>
+<h3>Projeto Edunity</h3>
+### 🛠 Tecnologias
+Soft skills meus:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Java](https://www.java.com/pt-BR/)
+- [SpringBoot](https://spring.io/projects/spring-boot)
+- [Postman](https://www.postman.com/)
+- [Banco de dados](https://www.oracle.com/br/mysql/)
+- [Mysql](https://www.oracle.com/br/mysql/)
+
+
+### Contatos
+---
+
+<a href="https://github.com/ThalitaProgramadora">
+ <img style="border-radius: 50%;" src="https://i.imgur.com/wVGcp53.jpg" width="100px;" alt=""/>
+ <br />
+ <sub><b>Thalita Oliveira Silva</b></sub></a> <a href="https://github.com/ThalitaProgramadora" title="github">🚀</a>
+
+
+Feito com ❤️ por Thalita Oliveira Silva 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Thalita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalitaoliveirasilva2649/)](https://www.linkedin.com/in/thalitaoliveirasilva2649/) 
+[![Gmail Badge](https://img.shields.io/badge/-thalita.programadora@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thalita.programadora@gmail.com)](mailto:thalita.programadora@gmail.com)
+
